@@ -1,0 +1,30 @@
+body{
+	margin:0;
+}
+iframe{
+	border: none;
+	padding-top: 50px;
+	width:100%;
+	height:100%;
+	padding-left:0px;
+	top: 0px; 
+	left: 0px;
+	height:2000px;
+	overflow-y: hidden;
+}
+.header{
+	position:fixed;
+	top: 0px;
+	left: 0px;
+	width:100%;
+	padding-top:0px;
+	padding-left:0px;
+	padding-right:0px;
+	height:50px;
+	background-color: #1E90FF;
+}
+#image-logo{
+	padding-left: 550px;
+	height:45px;
+	width:200px;
+}

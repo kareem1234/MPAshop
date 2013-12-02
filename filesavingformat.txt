@@ -1,0 +1,16 @@
+var Asos = {
+		name: "Asos",
+		type: "both",
+		links: [{ name: "women-footwear",link: "http://asos.com/Women"},
+				{ name: "women-accessories",link: "http://asos.com/Women"},
+				{ name: "women-bottomwear",link: "http://asos.com/Women"},
+				{ name: "women-topwear",link: "http://asos.com/Women"},
+				{ name: "women-outerwear",link: "http://asos.com/Women"},
+				{ name: "men-outerwear",link: "http://asos.com/men"},
+				{ name: "men-footwear",link: "http://asos.com/men"},
+				{ name: "men-topwear",link: "http://asos.com/men"},
+				{ name: "men-bottomwear",link: "http://asos.com/men"},
+				{ name: "men-accesories",link: "http://asos.com/men"}
+			],
+		image: "images/asos-logo.png"
+	};
